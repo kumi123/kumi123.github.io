@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://youwebsite.com/2020/04/29/ji-qi-xue-xi-one/</loc>
+    
+    <lastmod>2020-04-29T15:50:02.344Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://youwebsite.com/2020/04/29/to-jane-521/</loc>
     
     <lastmod>2020-04-29T09:40:21.439Z</lastmod>
@@ -58,13 +65,6 @@
   </url>
   
   <url>
-    <loc>https://youwebsite.com/galleries/index.html</loc>
-    
-    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://youwebsite.com/tags/index.html</loc>
     
     <lastmod>2019-10-03T12:57:54.000Z</lastmod>
@@ -79,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://youwebsite.com/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
+    <loc>https://youwebsite.com/galleries/index.html</loc>
     
     <lastmod>2019-10-03T12:57:54.000Z</lastmod>
     
@@ -87,6 +87,13 @@
   
   <url>
     <loc>https://youwebsite.com/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%873/index.html</loc>
+    
+    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://youwebsite.com/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
     
     <lastmod>2019-10-03T12:57:54.000Z</lastmod>
     

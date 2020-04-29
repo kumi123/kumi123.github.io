@@ -1414,53 +1414,36 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fa fa-dot-circle-o"></i>&nbsp;本篇
-            </div>
+                <i class="fa fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/2020/04/29/to-jane-521/">
+                <a href="/2020/04/29/ji-qi-xue-xi-one/">
                     <div class="card-image">
                         
-                        <img src="/medias/ttt.jpg" class="responsive-img" alt="To Jane 521">
                         
-                        <span class="card-title">To Jane 521</span>
+                        <img src="/medias/featureimages/14.jpg" class="responsive-img" alt="机器学习one">
+                        
+                        <span class="card-title">机器学习one</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            For Jane
+                            
+BGD、SGD、Mini-batch GD，前面均已讨论过，这里介绍一下Online GD。
+Online GD于Mini-batch GD/SGD的区别在于，所有训练数据只用一次，然后丢弃。这样做的优点在于可预测最终模型的变化趋势。
+O
                         
                     </div>
                     <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="fa fa-clock-o fa-fw icon-date"></i>2020-04-29
-                            </span>
+                        <span class="publish-date">
+                            <i class="fa fa-clock-o fa-fw icon-date"></i>2020-04-29
+                        </span>
                         <span class="publish-author">
-                            
-                            <i class="fa fa-bookmark fa-fw icon-category"></i>
-                            
-                            <a href="/categories/随笔/" class="post-category" target="_blank">
-                                    随笔
-                                </a>
-                            
                             
                         </span>
                     </div>
-                </div>
-
-                
-                <div class="card-action article-tags">
-                    
-                    <a href="/tags/博客/" target="_blank">
-                        <span class="chip bg-color">博客</span>
-                    </a>
-                    
-                    <a href="/tags/随笔/" target="_blank">
-                        <span class="chip bg-color">随笔</span>
-                    </a>
-                    
                 </div>
                 
             </div>
@@ -1697,7 +1680,7 @@
 
             
                 &nbsp; | &nbsp;字数统计:&nbsp;
-                <span class="white-color">1.5k</span> 字
+                <span class="white-color">6.6k</span> 字
             
 
             
@@ -1730,6 +1713,10 @@
     </a>
 
 
+
+    <a href="https://weibo.com/https://www.weibo.com/fly51fly?is_hot=1#_loginLayer_1585378911717" class="tooltipped" target="_blank" data-tooltip="关注我的微博" data-position="top" data-delay="50">
+        <i class="fa fa-weibo"></i>
+    </a>
 
 
 
@@ -1847,10 +1834,6 @@ $(function () {
 
         <!-- 鼠标点击烟花爆炸效果  洪卫 shw2018 add 2019.09.09 -->
         
-            <canvas class="fireworks" style="position: fixed; left: 0; top: 0; z-index: 1; pointer-events: none;"></canvas>
-            <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script>
-            <script type="text/javascript" src="/js/fireworks.js"></script>
-        
             <!-- kumi -->
             <script type="text/javascript">
                 WIDGET = {FID: 'YLIKyTLIFq'}
@@ -1904,13 +1887,6 @@ $(function () {
         
 
         <!-- 背景 canvas-nest  洪卫 shw 2018  add 2019.09.15-->
-        
-            <script type="text/javascript">
-            var windowWidth = $(window).width();
-            if (windowWidth > 992) {
-                document.write('<script type="text/javascript" color="0,0,255" pointColor="0,0,255" opacity= "0.8" zIndex="--1" count="150"src="/libs/background/canvas-nest.js"><\/script>');
-            }
-            </script>
         
 
         <!-- 背景静止彩带  洪卫 shw 2018  add 2019.09.15-->

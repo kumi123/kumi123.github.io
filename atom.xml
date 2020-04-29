@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://youwebsite.com/"/>
-  <updated>2020-04-29T09:40:21.439Z</updated>
+  <updated>2020-04-29T15:50:02.344Z</updated>
   <id>https://youwebsite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>机器学习one</title>
+    <link href="https://youwebsite.com/2020/04/29/ji-qi-xue-xi-one/"/>
+    <id>https://youwebsite.com/2020/04/29/ji-qi-xue-xi-one/</id>
+    <published>2020-04-29T14:20:51.000Z</published>
+    <updated>2020-04-29T15:50:02.344Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;BGD、SGD、Mini-batch GD，前面均已讨论过，这里介绍一下Online GD。&lt;/p&gt;
+&lt;p&gt;Online GD于Mini-batch
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>To Jane 521</title>
