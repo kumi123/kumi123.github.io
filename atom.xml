@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://youwebsite.com/"/>
-  <updated>2020-04-29T15:50:02.344Z</updated>
+  <updated>2020-04-29T16:31:17.102Z</updated>
   <id>https://youwebsite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://youwebsite.com/2020/04/29/ji-qi-xue-xi-one/"/>
     <id>https://youwebsite.com/2020/04/29/ji-qi-xue-xi-one/</id>
     <published>2020-04-29T14:20:51.000Z</published>
-    <updated>2020-04-29T15:50:02.344Z</updated>
+    <updated>2020-04-29T16:31:17.102Z</updated>
     
     <summary type="html">
     
@@ -90,11 +90,11 @@
       <category term="软件安装与配置" scheme="https://youwebsite.com/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
     
     
+      <category term="博客" scheme="https://youwebsite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
       <category term="Hexo" scheme="https://youwebsite.com/tags/Hexo/"/>
     
       <category term="Github" scheme="https://youwebsite.com/tags/Github/"/>
-    
-      <category term="博客" scheme="https://youwebsite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
